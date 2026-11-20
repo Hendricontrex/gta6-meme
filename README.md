@@ -1,5 +1,9 @@
 # GTA 6 Meme — make.fun bounty entry
 
+[![Post a GTA 6 meme on X — make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Rank on make.fun](https://make.fun/badge/gta6-meme-x-01/Hendricontrex/gta6-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Reward on make.fun](https://make.fun/badge/gta6-meme-x-01/Hendricontrex/gta6-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 Entry for [gta6-meme-x-01](https://make.fun/bounty/gta6-meme-x-01):
 "Post a GTA 6 meme on X" ($500 USDC, top 50 paid).
 
